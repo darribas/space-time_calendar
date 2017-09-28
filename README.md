@@ -2,6 +2,10 @@
 
 Materials for the paper *"Characterizing the Spatial Structure(s) of Cities 'on the fly': The Space-Time Calendar"*, by Dani Arribas-Bel and Emmanouil Tranos.
 
+![](calendar.png)
+
+![](calendars.png)
+
 ## Citation
 
 ## License
