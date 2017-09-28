@@ -1,0 +1,20 @@
+# Run `conda-env create -f install_gds_stack.yml`
+name: stc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.5
+  - pip
+  - cartopy
+  - geopandas
+  - ipython
+  - ipywidgets
+  - jupyter
+  - mkl-service
+  - palettable
+  - pillow
+  - pip:
+        - contextily
+        - pysal
+  - rasterio
+  - seaborn
