@@ -3,6 +3,10 @@
 This folder contains the code used to create the analysis in the paper, as
 well as tools to build the computational environment required.
 
+* `paper_figs_ga.ipynb`: notebook to replicate the paper's figures
+* `run_daily.ipynb`: notebook to process data and run daily LISAs
+* `tools.py`: bespoke tools
+
 ## Installation
 
 We recommend to install Python 3.5 using
